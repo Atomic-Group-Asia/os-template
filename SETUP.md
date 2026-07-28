@@ -44,7 +44,13 @@ How to run it:
   and lose the thread.
 - **One line of why** before each question. People who understand why give
   better answers.
-- **Never re-ask** something already answered — confirm it instead.
+- **Never re-ask** something already answered — confirm it instead. This is
+  the rule that breaks most often, because people give away far more than
+  they're asked. Section A alone will usually hand you channels, the team's
+  bottleneck, and the hardest problem in the business — all before Section B.
+  **Keep a running list of what's already been answered and check it before
+  every question.** Asking someone to repeat something they told you ten
+  minutes ago is the fastest way to lose their attention.
 - **Show each file before saving it.**
 - **Nothing you write mentions this setup.** Every file must still make sense
   in a year to someone who never saw this conversation.
@@ -68,19 +74,40 @@ what to do if the answer is thin.
 basics. No website — one sentence: what does the business do?"
 → `business.md` anchor line. *If they paste a link, read it and confirm what
 you understood rather than asking cold. Fetch fails? Just ask the question.*
+*If they hand over the link but warn it's old, neglected, or "don't rely on
+it" — **believe them**. Use it for names and spelling only, and treat nothing
+from it as confirmed. A stale site is worse than no site, because pre-filled
+answers get confirmed rather than questioned, and out-of-date facts enter as
+truth and never get challenged again.*
 
 **A3.** "Walk me through a normal day. What eats your time?"
 → What I actually do all day. *If you get a job description, ask what they
 actually did yesterday.*
+***This is the highest-yield question in the interview — listen hard.** A
+normal day names the channels they sell through, the people they chase, the
+problem that's actually hurting, and when they work. Expect it to pre-answer
+parts of **B3** (what's hard), **E1** (channels), **D3** (suppliers and
+agencies) and **G3** (rhythm). Write all of it down now, and confirm it later
+rather than asking again.*
 
 **A4.** "What do people come to you for? And what would you hand off tomorrow
 if you could?"
 → Strengths / handoff list. *Blank on the second half? Come back after A3.*
+*The first half usually answers **D2** (who has the final call) outright — if
+everything routes through them, that IS the decision map. Record it and turn
+D2 into a confirmation. The second half is the most useful sentence in the
+whole file: it's the work they'd most like handed over, which is where an AI
+should be pointed first.*
 
 **A5.** "Have you set software up yourself before, or used a terminal? No wrong
 answer — it just tells me how much to explain."
 → How technical I am. *If no: skip F2 entirely later, and stop mentioning
 file paths.*
+*If they name someone else as the technical one — a partner, a staff member,
+a cousin who built the website — **capture that person by name** into
+`team.md` as who to route technical work to. The person being interviewed is
+often not the person who'll wire anything up, and if you don't write down who
+is, that gets lost.*
 
 ## B — The business → `business.md`
 
