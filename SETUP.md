@@ -8,7 +8,7 @@ Two ways to do it. Pick one.
 
 ---
 
-## Option 1 — let the AI interview you (about 45 min)
+## Option 1 — let the AI interview you
 
 Open this folder in an AI tool that can read files — Claude Code, or anything
 that reads `AGENTS.md` — and say:
@@ -18,6 +18,11 @@ that reads `AGENTS.md` — and say:
 It'll work through the questions below, one at a time, and write your answers
 into `context/`. Nothing gets connected to anything, nothing can break — it
 only writes files inside this folder.
+
+**How long it takes** — about 45 minutes for one brand sold one way. Longer if
+you have several brands or several channels, because those sections repeat per
+brand and per channel. You can stop at the end of any section and pick it up
+later; whatever's been answered is already written.
 
 ## Option 2 — fill it in yourself
 
@@ -98,7 +103,16 @@ exclusivity, competitors you won't touch.*
 
 ## C — Brands → `brands.md`
 
-*Ask C1 once, then C2–C5 per brand. Full detail on the first, faster after.*
+*Ask C1 once. Then run C2–C5 **in full on their biggest brand only**.*
+
+*For every other brand, don't repeat all four — ask one question:*
+
+> "Anything different about [brand] — different buyer, different promise, or
+> does it work the same way?"
+
+*Fill that brand's block from what's different, and carry the rest across.
+Repeating four questions per brand is what turns a 45-minute interview into a
+two-hour one, and by the third brand the answers get shorter anyway.*
 
 **C1.** "What brands or product lines do you run? Names only for now."
 → One block per brand. *Same buyer + same price ladder + same promise = one
@@ -134,6 +148,11 @@ fact about the business.*
 
 ## E — Channels → `channels.md`
 
+*Same rule as Section C, and it matters more here — E2 is a real conversation
+every time. Run **E2–E4 in full on the two biggest channels**. For the rest,
+ask only E2 (what they take) and move on. A channel doing 3% of revenue does
+not need its dispute history mapped tonight.*
+
 **E1.** "How does the product actually reach a buyer? Every route — shops,
 platforms, distributors, agents, direct."
 → One block per channel. *Probe for the forgotten ones: exports, wholesale,
@@ -157,8 +176,14 @@ waiting on someone?"
 
 ## F — Structure → the folder tree
 
-**F1.** "What are the big areas of the business — what would you file work
-under?"
+**F1.** Don't ask this one cold — by now C1 gave you the brands and E1 gave you
+the channels, which is most of the tree already. Asking "what are the big areas
+of your business?" at this point sounds like you weren't listening. Say what
+you've got and ask what's missing:
+
+> "So the shape looks like [brands from C1], plus how you sell — [channels from
+> E1]. What else does work get filed under that I haven't heard yet?"
+
 → The folders. *Before proposing: is each one really a sub-topic of another?
 Nest it if so. Aim for 5–8 areas, not a flat list of twenty.*
 
