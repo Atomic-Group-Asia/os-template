@@ -91,8 +91,8 @@ The part worth keeping isn't the file list. It's the three rules underneath it:
 
 ## Who made this
 
-Built by **Jon Lai** — founder of Atomic Group, a consumer brands business in
-Malaysia. This is the skeleton of the workspace I actually run my company
+Built at **Atomic Group**, a consumer brands business in Malaysia, by
+**Jon Lai**. This is the skeleton of the workspace we actually run the company
 from, stripped of everything specific to it.
 
 It's shaped the way it is because most business-context templates assume one
