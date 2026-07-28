@@ -3,7 +3,44 @@
 A blank workspace that an AI can run a business from. Fork it, fill it in,
 make it yours.
 
-**New here? Read [SETUP.md](SETUP.md).**
+---
+
+## Start here
+
+**You need:** VS Code, with Claude Code connected and signed in. That's the
+only requirement — everything else happens inside it.
+
+**1. Get your own copy.**
+Click **Use this template** → **Create a new repository** at the top of this
+page. Name it after your business. That gives you your own copy — nothing you
+write goes back to this one.
+*No GitHub account? Click the green **Code** button → **Download ZIP**, and
+unzip it wherever you keep your work.*
+
+**2. Open it in VS Code.**
+`File → Open Folder`, and pick the folder you just made. **Open the folder
+itself, not a file inside it** — Claude Code reads the instructions from the
+folder root, and it won't find them otherwise.
+
+**3. Open Claude Code and say this:**
+
+> read SETUP.md and interview me
+
+**4. Answer the questions.**
+About 45 minutes for one brand, longer if you have several. It asks one
+question at a time and writes your answers into `context/` as it goes. You can
+stop at the end of any section and pick it up later — nothing is lost.
+
+That's it. When it's done, this folder knows your business, and every future
+conversation starts from there instead of from nothing.
+
+**If you'd rather type it yourself** than be interviewed, open each file in
+`context/` and fill it in. Every file explains what belongs in it. Same result.
+
+---
+
+**More detail:** [SETUP.md](SETUP.md) — the full interview and what happens
+after it.
 
 ## What this is
 

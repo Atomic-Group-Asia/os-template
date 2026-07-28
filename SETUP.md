@@ -10,8 +10,8 @@ Two ways to do it. Pick one.
 
 ## Option 1 — let the AI interview you
 
-Open this folder in an AI tool that can read files — Claude Code, or anything
-that reads `AGENTS.md` — and say:
+Open this folder in VS Code (`File → Open Folder` — the folder itself, not a
+file inside it), open Claude Code, and say:
 
 > **Read SETUP.md and interview me.**
 
